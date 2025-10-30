@@ -43,10 +43,13 @@ python analyze_grades.py
 ## 📸 Sample Output
 
 <p align="center">
-  <img src="https://github.com/ramoware/grader/hero.png" width="700" />
+  <img src="hero.png" width="700" 
+       style="border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
 </p>
 
-### Console Report
+---
+
+## Console Report
 ```text
 === TOP 10 STUDENTS ===
         Name  Average Grade
@@ -55,7 +58,9 @@ Evelyn Clark     93.88    A+
 ...
 ```
 
-### CSV Preview (`sample_output.csv`)
+---
+
+## CSV Preview (`sample_output.csv`)
 | Name            | Mathematics | English Literature | ... | Average | Grade |
 |-----------------|-------------|--------------------|-----|---------|-------|
 | Emma Smith      | 88          | 92                 | ... | 89.25   | A     |
