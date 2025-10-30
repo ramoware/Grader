@@ -1,10 +1,10 @@
 # 🎓 Grader
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-%3E%3D1.5.0-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-%3E%3D1.21.0-013243?logo=numpy&logoColor=white)](https://numpy.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Code Size](https://img.shields.io/github/languages/code-size/your-username/grader?color=orange)](https://github.com/your-username/grader)
-[![Last Commit](https://img.shields.io/github/last-commit/your-username/grader?color=blueviolet)](https://github.com/your-username/grader/commits/main)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/your-username/grader)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 > **A lightweight, dependency-minimal tool to generate and analyze synthetic student performance data — perfect for demos, teaching, or prototyping academic dashboards.**
 
